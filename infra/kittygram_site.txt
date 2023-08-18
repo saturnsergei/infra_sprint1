@@ -1,0 +1,5 @@
+IP: 158.160.75.183;
+name_taski: https://saturnrings.sytes.net/;
+name_kittygram: https://kittyonsaturn.ddns.net/;
+login: catking;
+password: 62389J44;
